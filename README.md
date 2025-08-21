@@ -53,8 +53,7 @@
 ###
 <h3 align="left">📕 Мої статі</h3>
 
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+- [Як я створив Агро калькулятор на Python з базою MySQL]([https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29](https://medium.com/@talent7624/агро-калькулятор-цифровий-помічник-для-сучасного-аграрія-2e881cbe8822))
 
 ###
 
